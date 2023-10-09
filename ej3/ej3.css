@@ -1,5 +1,5 @@
 div {
-    width: 100px;
+    width: 200px;
     float: left;
 }
 
@@ -26,4 +26,11 @@ div {
 
 #columna-1, #columna-2, #columna-3 {
     border-width: 0px;
+}
+
+.margen-derecha {
+    margin-right: 20px;
+}
+.margen-abajo {
+    margin-bottom: 20px;
 }
