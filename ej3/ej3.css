@@ -1,7 +1,23 @@
-div {
+#Movida, #c, #g {
     background-color: #e74040;
     border: solid;
     height: 100px;
     width: 100px;
+    padding: 20px 15px 25px 35px
+}
+
+#Patata, #d, #f {
+    background-color: #40bde7;
+    border: solid;
+    height: 40px;
+    width: 100px;
+    padding: 20px 15px 25px 35px
+}
+
+#a, #b, #e {
+    background-color: #d04dea;
+    border: solid;
+    height: 60px;
+    width: 40px;
     padding: 20px 15px 25px 35px
 }
