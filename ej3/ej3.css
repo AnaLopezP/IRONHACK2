@@ -10,14 +10,14 @@ div {
     padding: 20px 15px 25px 35px
 }
 
-#Patata, #d, #f {
+#Patata, #d, #e {
     background-color: #40bde7;
     border: solid;
     height: 40px;
     padding: 20px 15px 25px 35px
 }
 
-#a, #b, #e {
+#a, #b, #f {
     background-color: #d04dea;
     border: solid;
     height: 60px;
@@ -29,8 +29,8 @@ div {
 }
 
 .margen-derecha {
-    margin-right: 20px;
+    margin-right: 75px;
 }
 .margen-abajo {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
