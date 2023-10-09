@@ -1,8 +1,12 @@
+div {
+    width: 100px;
+    float: left;
+}
+
 #Movida, #c, #g {
     background-color: #e74040;
     border: solid;
     height: 100px;
-    width: 100px;
     padding: 20px 15px 25px 35px
 }
 
@@ -10,7 +14,6 @@
     background-color: #40bde7;
     border: solid;
     height: 40px;
-    width: 100px;
     padding: 20px 15px 25px 35px
 }
 
@@ -18,6 +21,9 @@
     background-color: #d04dea;
     border: solid;
     height: 60px;
-    width: 40px;
     padding: 20px 15px 25px 35px
+}
+
+#columna-1, #columna-2, #columna-3 {
+    border-width: 0px;
 }
