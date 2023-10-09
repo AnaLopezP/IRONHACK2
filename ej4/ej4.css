@@ -5,8 +5,16 @@ h2 {
     color: #008080;
 }
 p {
-    color: #4682b4
+    color: #4682b4;
 }
-#palabra, #palabra2, #palabra3 {
-    color: fuchsia
+#palabra{
+    color: fuchsia;
+}
+
+#palabra2 {
+    color: blue;
+}
+
+#palabra3 {
+    color: orchid;
 }
