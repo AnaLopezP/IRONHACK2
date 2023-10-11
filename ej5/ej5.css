@@ -1,4 +1,8 @@
-#nose {
-    color: green;
-}
+@media (min-width: 768px) {
+  .ej5 {
+    background-color: #f00;}
+    #nose {
+        color: green
+    }
+    }
 
