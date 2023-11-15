@@ -26,13 +26,13 @@ function checkGuess(e) {
     else if (respuesta > secretNumber) {
       console.log(`Es demasiado alto. Número de intentos: ${contador}`)
       alert(`Es demasiado alto. Número de intentos: ${contador}`)
-      contador++
+      contador++;
     }
     
     else if (respuesta < secretNumber) {
       console.log(`Es demasiado bajo. Número de intentos: ${contador}`)
       alert(`Es demasiado bajo. Número de intentos: ${contador}`)
-      contador++
+      contador++;
     }
   }
 }
