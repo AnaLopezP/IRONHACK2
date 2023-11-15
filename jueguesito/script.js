@@ -29,6 +29,22 @@ function checkGuess(e) {
     contador++
   }
 }
+function dificultad() {
+  let dificultad = prompt("Elige la dificultad: (F)fácil, (M)medio o (D)difícil");
+  if (dificultad == "F") {
+    let intento = 20;
+  }
+  else if (dificultad == "M") {
+    let intento = 10;
+  }
+  else if (dificultad == "D") {
+    let intento = 5;
+  }
+  else {
+    alert("No has elegido una dificultad válida");
+  }
+  return intento;
+}
 
 //Aquí relacionamos el botón de la web con la variable boton que vamos a utilizar
 let boton = document.getElementById("guess-btn");
